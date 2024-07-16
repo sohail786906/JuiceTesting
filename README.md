@@ -11,7 +11,7 @@ ChromeDriver (or WebDriver for your preferred browser) installed and configured
 Setup
 Clone the repository:
 
-**git clone https://github.com/yourusername/your-repository.git**
+**git clone 
 cd your-repository
 Set up ChromeDriver:
 
